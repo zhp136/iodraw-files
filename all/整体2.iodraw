@@ -4,7 +4,7 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="ZgnDloNpp8DSVzNnca-0-118" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;dashed=1;dashPattern=1 1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZgnDloNpp8DSVzNnca-0-118" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;dashed=1;dashPattern=8 8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="300" width="550" height="380" as="geometry" />
         </mxCell>
         <mxCell id="_fuNBjf3pP0SY0xZ1-1W-0" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;dashed=1;dashPattern=8 8;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -357,6 +357,12 @@
         <mxCell id="ZgnDloNpp8DSVzNnca-0-115" value="K&lt;sup&gt;th&lt;/sup&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt; stage&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1317.84" y="512.53" width="210" height="122.5" as="geometry">
             <mxRectangle x="1440" y="545" width="40" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZgnDloNpp8DSVzNnca-0-119" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="390" as="sourcePoint" />
+            <mxPoint x="1130" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
