@@ -199,7 +199,7 @@
         <mxCell id="ZgnDloNpp8DSVzNnca-0-60" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;MF&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1090" y="267.5" width="170" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="ZgnDloNpp8DSVzNnca-0-61" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Low-rank &lt;br&gt;&amp;amp; TV&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZgnDloNpp8DSVzNnca-0-61" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Low-rank &lt;br&gt;&amp;amp; TV&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1210" y="340" width="77.5" height="35" as="geometry" />
         </mxCell>
         <mxCell id="ZgnDloNpp8DSVzNnca-0-62" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Transformer&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
