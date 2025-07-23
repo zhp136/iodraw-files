@@ -226,8 +226,8 @@
             <mxPoint x="1280" y="352.98749999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZgnDloNpp8DSVzNnca-0-76" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1280" y="510" width="20" height="20" as="geometry" />
+        <mxCell id="ZgnDloNpp8DSVzNnca-0-76" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1300" y="450" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
