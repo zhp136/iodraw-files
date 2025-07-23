@@ -74,7 +74,7 @@
           <mxGeometry x="720" y="500" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZgnDloNpp8DSVzNnca-0-9" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Fusion&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="735" y="600" width="148" height="50" as="geometry" />
+          <mxGeometry x="1110" y="570" width="144" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZgnDloNpp8DSVzNnca-0-11" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.552;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
