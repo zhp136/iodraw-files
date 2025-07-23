@@ -105,15 +105,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZgnDloNpp8DSVzNnca-0-13" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="ZgnDloNpp8DSVzNnca-0-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="900" y="410" as="sourcePoint" />
-            <mxPoint x="790" y="540" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1020" y="410" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZgnDloNpp8DSVzNnca-0-14" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZgnDloNpp8DSVzNnca-0-7" target="ZgnDloNpp8DSVzNnca-0-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="590" as="sourcePoint" />
