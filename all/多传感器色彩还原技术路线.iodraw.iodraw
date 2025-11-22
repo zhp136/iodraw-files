@@ -17,7 +17,7 @@
           <mxGeometry x="440" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-13" value="标定LSC图像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="70" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
