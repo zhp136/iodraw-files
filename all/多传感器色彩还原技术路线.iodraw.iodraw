@@ -166,7 +166,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FwakMooaOA40INTIx32W-75" value="AWB GAIN" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FwakMooaOA40INTIx32W-75" value="CCM矩阵" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="840" y="410" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
