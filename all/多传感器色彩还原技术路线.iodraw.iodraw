@@ -8,7 +8,7 @@
           <mxGeometry x="50" y="95" width="1210" height="490" as="geometry" />
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-88" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="640" y="165" width="390" height="345" as="geometry" />
+          <mxGeometry x="640" y="165" width="380" height="345" as="geometry" />
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-87" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="460" y="165" width="150" height="350" as="geometry" />
@@ -168,14 +168,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-77" value="标准色卡图像" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="900" y="310" width="120" height="40" as="geometry" />
+          <mxGeometry x="890" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-78" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="FwakMooaOA40INTIx32W-77">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="980" y="350" as="sourcePoint" />
             <mxPoint x="890" y="410" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="960" y="380" />
+              <mxPoint x="950" y="380" />
               <mxPoint x="890" y="380" />
             </Array>
           </mxGeometry>
