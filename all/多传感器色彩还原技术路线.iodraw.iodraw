@@ -65,7 +65,7 @@
         <mxCell id="FwakMooaOA40INTIx32W-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="FwakMooaOA40INTIx32W-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="770" y="390" as="sourcePoint" />
-            <mxPoint x="720" y="400" as="targetPoint" />
+            <mxPoint x="730" y="400" as="targetPoint" />
             <Array as="points">
               <mxPoint x="810" y="380" />
               <mxPoint x="720" y="380" />
