@@ -62,10 +62,10 @@
         <mxCell id="FwakMooaOA40INTIx32W-32" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;拟合&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="800" y="570" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FwakMooaOA40INTIx32W-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="FwakMooaOA40INTIx32W-31" target="FwakMooaOA40INTIx32W-35">
+        <mxCell id="FwakMooaOA40INTIx32W-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="FwakMooaOA40INTIx32W-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="770" y="390" as="sourcePoint" />
-            <mxPoint x="730" y="400" as="targetPoint" />
+            <mxPoint x="720" y="400" as="targetPoint" />
             <Array as="points">
               <mxPoint x="810" y="380" />
               <mxPoint x="720" y="380" />
