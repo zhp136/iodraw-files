@@ -10,7 +10,7 @@
         <mxCell id="FwakMooaOA40INTIx32W-7" value="阵列多光谱传感器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="175" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FwakMooaOA40INTIx32W-11" value="阵列多光谱传感器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FwakMooaOA40INTIx32W-11" value="场景光源谱与成分拆分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="175" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
