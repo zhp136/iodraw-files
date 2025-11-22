@@ -7,7 +7,7 @@
         <mxCell id="FwakMooaOA40INTIx32W-83" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="30" y="120" width="1210" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="FwakMooaOA40INTIx32W-87" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=4;dashPattern=1 2;" vertex="1" parent="1">
+        <mxCell id="FwakMooaOA40INTIx32W-87" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="460" y="170" width="150" height="350" as="geometry" />
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-6" value="RGB图像传感器" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
