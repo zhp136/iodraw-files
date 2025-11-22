@@ -46,12 +46,6 @@
         <mxCell id="FwakMooaOA40INTIx32W-26" value="" style="shape=cross;whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="1">
           <mxGeometry x="527.5" y="152.5" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="FwakMooaOA40INTIx32W-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="FwakMooaOA40INTIx32W-20">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="170.07" as="sourcePoint" />
-            <mxPoint x="535" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="534.83" y="250" as="sourcePoint" />
