@@ -13,7 +13,7 @@
         <mxCell id="FwakMooaOA40INTIx32W-11" value="预测场景光源谱及拆分14基光源占比" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="320" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FwakMooaOA40INTIx32W-13" value="标定均匀照明图像" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FwakMooaOA40INTIx32W-13" value="基光源下标定均匀照明图像" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="475" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FwakMooaOA40INTIx32W-6" target="FwakMooaOA40INTIx32W-24">
@@ -50,10 +50,10 @@
         <mxCell id="FwakMooaOA40INTIx32W-26" value="" style="shape=cross;whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="1">
           <mxGeometry x="527.5" y="472.5" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="FwakMooaOA40INTIx32W-29" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="FwakMooaOA40INTIx32W-21">
+        <mxCell id="FwakMooaOA40INTIx32W-29" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="534.8" y="280" as="sourcePoint" />
-            <mxPoint x="534.8" y="310" as="targetPoint" />
+            <mxPoint x="534.7099999999999" y="280" as="sourcePoint" />
+            <mxPoint x="534.91" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-31" value="重构" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
