@@ -91,7 +91,7 @@
             <mxPoint x="719.83" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FwakMooaOA40INTIx32W-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="FwakMooaOA40INTIx32W-40" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="545" y="159.65" as="sourcePoint" />
             <mxPoint x="710" y="160" as="targetPoint" />
@@ -131,7 +131,7 @@
         <mxCell id="FwakMooaOA40INTIx32W-49" value="" style="shape=cross;whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="1">
           <mxGeometry x="892.5" y="152.5" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="FwakMooaOA40INTIx32W-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="FwakMooaOA40INTIx32W-48">
+        <mxCell id="FwakMooaOA40INTIx32W-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="FwakMooaOA40INTIx32W-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="730" y="159.71" as="sourcePoint" />
             <mxPoint x="880" y="160" as="targetPoint" />
@@ -161,7 +161,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FwakMooaOA40INTIx32W-56" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="FwakMooaOA40INTIx32W-56" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="910" y="159.71" as="sourcePoint" />
             <mxPoint x="1040" y="160" as="targetPoint" />
