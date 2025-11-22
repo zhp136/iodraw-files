@@ -171,11 +171,11 @@
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-76" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="729.76" y="470" as="sourcePoint" />
-            <mxPoint x="730" y="480" as="targetPoint" />
+            <mxPoint x="899.8" y="460" as="sourcePoint" />
+            <mxPoint x="900.04" y="470" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="729.76" y="460" />
-              <mxPoint x="729.76" y="470" />
+              <mxPoint x="899.8" y="450" />
+              <mxPoint x="899.8" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
