@@ -11,16 +11,16 @@
           <mxGeometry x="640" y="165" width="380" height="355" as="geometry" />
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-87" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="460" y="165" width="150" height="355" as="geometry" />
+          <mxGeometry x="460" y="160" width="150" height="360" as="geometry" />
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-6" value="RGB图像传感器" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="460" width="120" height="40" as="geometry" />
+          <mxGeometry x="150" y="460" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-7" value="阵列多光谱传感器" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="150" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-11" value="预测场景光源谱及拆分14基光源占比" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="320" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="310" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-13" value="标定均匀照明图像" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="475" y="190" width="120" height="40" as="geometry" />
