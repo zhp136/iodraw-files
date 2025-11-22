@@ -14,7 +14,7 @@
           <mxGeometry x="170" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-11" value="预测场景光源谱及拆分14基光源占比" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="330" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="320" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-13" value="标定均匀照明图像" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="475" y="190" width="120" height="40" as="geometry" />
@@ -131,7 +131,7 @@
             <mxPoint x="330" y="290" as="sourcePoint" />
             <mxPoint x="730" y="240" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="400" y="270" />
+              <mxPoint x="380" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -195,6 +195,9 @@
               <mxPoint x="534.76" y="360" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FwakMooaOA40INTIx32W-87" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
