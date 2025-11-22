@@ -109,9 +109,6 @@
         <mxCell id="FwakMooaOA40INTIx32W-44" value="标定色卡图像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FwakMooaOA40INTIx32W-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FwakMooaOA40INTIx32W-45" target="FwakMooaOA40INTIx32W-49">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-45" value="CCM矩阵" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="190" width="120" height="40" as="geometry" />
         </mxCell>
@@ -127,7 +124,7 @@
         <mxCell id="FwakMooaOA40INTIx32W-48" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="890" y="150" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FwakMooaOA40INTIx32W-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FwakMooaOA40INTIx32W-49" target="FwakMooaOA40INTIx32W-45">
+        <mxCell id="FwakMooaOA40INTIx32W-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FwakMooaOA40INTIx32W-45" target="FwakMooaOA40INTIx32W-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-49" value="" style="shape=cross;whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="1">
