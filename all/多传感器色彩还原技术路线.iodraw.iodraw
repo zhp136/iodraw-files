@@ -156,6 +156,19 @@
             <mxPoint x="810" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FwakMooaOA40INTIx32W-74" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="719.76" y="460" as="sourcePoint" />
+            <mxPoint x="720" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="719.76" y="450" />
+              <mxPoint x="719.76" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FwakMooaOA40INTIx32W-75" value="AWB GAIN" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="840" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
