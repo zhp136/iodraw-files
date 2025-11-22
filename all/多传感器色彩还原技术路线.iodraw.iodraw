@@ -179,8 +179,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FwakMooaOA40INTIx32W-77" value="重构色卡图像" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="760" y="320" width="120" height="40" as="geometry" />
+        <mxCell id="FwakMooaOA40INTIx32W-77" value="标准色卡图像" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="907.5" y="310" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
