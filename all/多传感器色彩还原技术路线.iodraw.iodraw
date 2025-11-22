@@ -50,7 +50,7 @@
         <mxCell id="FwakMooaOA40INTIx32W-26" value="" style="shape=cross;whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="1">
           <mxGeometry x="527.5" y="472.5" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="FwakMooaOA40INTIx32W-29" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="FwakMooaOA40INTIx32W-13">
+        <mxCell id="FwakMooaOA40INTIx32W-29" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=1 1;" edge="1" parent="1" source="FwakMooaOA40INTIx32W-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="534.7099999999999" y="280" as="sourcePoint" />
             <mxPoint x="534.91" y="330" as="targetPoint" />
@@ -87,7 +87,7 @@
         <mxCell id="FwakMooaOA40INTIx32W-45" value="AWB GAIN" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="650" y="410" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FwakMooaOA40INTIx32W-47" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="FwakMooaOA40INTIx32W-68">
+        <mxCell id="FwakMooaOA40INTIx32W-47" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" target="FwakMooaOA40INTIx32W-68">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="800.08" y="220" as="sourcePoint" />
             <mxPoint x="800" y="250" as="targetPoint" />
