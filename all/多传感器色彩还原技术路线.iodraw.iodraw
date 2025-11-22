@@ -25,7 +25,7 @@
         <mxCell id="FwakMooaOA40INTIx32W-7" value="阵列多光谱传感器" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="140" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FwakMooaOA40INTIx32W-11" value="预测场景光源谱及拆分14基光源占比" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="FwakMooaOA40INTIx32W-11" value="预测场景光源谱及拆分K个基光源占比" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="310" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-13" value="标定均匀照明图像" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
