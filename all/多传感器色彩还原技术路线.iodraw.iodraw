@@ -212,7 +212,7 @@
         <mxCell id="FwakMooaOA40INTIx32W-95" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;LSC&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="490" y="160" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FwakMooaOA40INTIx32W-97" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;白平衡与色彩矫正&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="FwakMooaOA40INTIx32W-97" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;白平衡与色彩校正&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="750" y="160" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
