@@ -14,7 +14,7 @@
           <mxGeometry x="280" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-13" value="标定均匀照明图像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="475" y="310" width="120" height="40" as="geometry" />
+          <mxGeometry x="475" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="FwakMooaOA40INTIx32W-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -59,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-30" value="标定色卡图像(中性色块)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="300" width="120" height="40" as="geometry" />
+          <mxGeometry x="660" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-31" value="AWB GAIN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="190" width="120" height="40" as="geometry" />
