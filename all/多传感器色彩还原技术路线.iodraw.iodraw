@@ -87,7 +87,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-44" value="标定色卡图像" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="770" y="180" width="120" height="40" as="geometry" />
+          <mxGeometry x="740" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-45" value="CCM矩阵" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="747.5" y="800" width="120" height="40" as="geometry" />
