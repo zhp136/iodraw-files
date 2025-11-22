@@ -203,13 +203,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-93" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 19px;&quot;&gt;信号输入&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="155" y="160" width="90" height="30" as="geometry" />
+          <mxGeometry x="155" y="150" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-94" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 19px;&quot;&gt;光源估计&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="324" y="160" width="90" height="30" as="geometry" />
+          <mxGeometry x="324" y="150" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-95" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 19px;&quot;&gt;信号输入&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="160" width="90" height="30" as="geometry" />
+          <mxGeometry x="490" y="150" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
