@@ -82,17 +82,6 @@
             <mxPoint x="710" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FwakMooaOA40INTIx32W-41" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;endFill=0;dashed=1;strokeWidth=2;" edge="1" parent="1" source="FwakMooaOA40INTIx32W-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="630.0699999999999" as="sourcePoint" />
-            <mxPoint x="900" y="620" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="480" y="670" />
-              <mxPoint x="680" y="670" />
-              <mxPoint x="900" y="620" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-44" value="标定色卡图像" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="840" y="730" width="120" height="40" as="geometry" />
         </mxCell>
@@ -150,7 +139,7 @@
             <mxPoint x="1200" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FwakMooaOA40INTIx32W-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="FwakMooaOA40INTIx32W-11">
+        <mxCell id="FwakMooaOA40INTIx32W-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FwakMooaOA40INTIx32W-7" target="FwakMooaOA40INTIx32W-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="579.5799999999999" as="sourcePoint" />
             <mxPoint x="625" y="579.5799999999999" as="targetPoint" />
