@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FwakMooaOA40INTIx32W-83" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="50" y="95" width="1210" height="490" as="geometry" />
+          <mxGeometry x="60" y="600" width="1210" height="490" as="geometry" />
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-88" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="640" y="165" width="380" height="355" as="geometry" />
@@ -131,7 +131,7 @@
             <mxPoint x="330" y="290" as="sourcePoint" />
             <mxPoint x="730" y="240" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="380" y="270" />
+              <mxPoint x="370" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
