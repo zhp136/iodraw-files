@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fNs84FScNJCyW_8khOSI-65" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="357.5" y="125" width="375" height="380" as="geometry" />
+          <mxGeometry x="357.5" y="640" width="375" height="380" as="geometry" />
         </mxCell>
         <mxCell id="fNs84FScNJCyW_8khOSI-64" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="152.5" y="125" width="155" height="380" as="geometry" />
@@ -99,8 +99,8 @@
         </mxCell>
         <mxCell id="fNs84FScNJCyW_8khOSI-28" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="455" y="234.66000000000003" as="sourcePoint" />
-            <mxPoint x="495" y="234.66000000000003" as="targetPoint" />
+            <mxPoint x="450" y="234.68000000000004" as="sourcePoint" />
+            <mxPoint x="490" y="234.68000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fNs84FScNJCyW_8khOSI-29" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
@@ -236,7 +236,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fNs84FScNJCyW_8khOSI-66" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;信号输入&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="155" width="90" height="30" as="geometry" />
+          <mxGeometry x="490" y="125" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
