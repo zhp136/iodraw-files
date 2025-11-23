@@ -241,6 +241,9 @@
         <mxCell id="fNs84FScNJCyW_8khOSI-66" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;信号输入&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="170" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fNs84FScNJCyW_8khOSI-71" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;信号输入&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="180" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
