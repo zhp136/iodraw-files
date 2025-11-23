@@ -89,10 +89,16 @@
           <mxGeometry x="510" y="225" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fNs84FScNJCyW_8khOSI-26" value="CCC Block" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="285" width="70" height="20" as="geometry" />
+          <mxGeometry x="510" y="295" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fNs84FScNJCyW_8khOSI-27" value="CCC Block" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="435" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fNs84FScNJCyW_8khOSI-28" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="374.17" as="sourcePoint" />
+            <mxPoint x="350" y="374.17" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
