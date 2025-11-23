@@ -85,8 +85,8 @@
             <mxPoint x="399.65999999999997" y="335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fNs84FScNJCyW_8khOSI-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="fNs84FScNJCyW_8khOSI-25" value="CCC Block" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="310" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
