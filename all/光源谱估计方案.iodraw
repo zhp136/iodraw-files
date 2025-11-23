@@ -239,10 +239,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fNs84FScNJCyW_8khOSI-66" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;对数色度直方图&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="170" width="130" height="30" as="geometry" />
+          <mxGeometry x="455" y="170" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fNs84FScNJCyW_8khOSI-71" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;信号输入&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="855" y="170" width="90" height="30" as="geometry" />
+        <mxCell id="fNs84FScNJCyW_8khOSI-71" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;CNN AND MLP&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="855" y="170" width="135" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
