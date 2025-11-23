@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fNs84FScNJCyW_8khOSI-68" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="860" y="880" width="340" height="365" as="geometry" />
+        </mxCell>
         <mxCell id="fNs84FScNJCyW_8khOSI-65" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="365" y="135" width="340" height="365" as="geometry" />
         </mxCell>
@@ -237,9 +240,6 @@
         </mxCell>
         <mxCell id="fNs84FScNJCyW_8khOSI-66" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;信号输入&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="170" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fNs84FScNJCyW_8khOSI-68" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="375" y="145" width="340" height="365" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
