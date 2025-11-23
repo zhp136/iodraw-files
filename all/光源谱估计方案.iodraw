@@ -114,14 +114,11 @@
             <mxPoint x="870" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FwakMooaOA40INTIx32W-56" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="FwakMooaOA40INTIx32W-57" edge="1">
+        <mxCell id="FwakMooaOA40INTIx32W-56" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="900" y="479.71000000000004" as="sourcePoint" />
-            <mxPoint x="1030" y="480" as="targetPoint" />
+            <mxPoint x="1050" y="480" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="FwakMooaOA40INTIx32W-57" value="后续ISP处理流程" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="460" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="FwakMooaOA40INTIx32W-7" target="FwakMooaOA40INTIx32W-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
