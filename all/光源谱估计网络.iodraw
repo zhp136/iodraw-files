@@ -228,8 +228,8 @@
         </mxCell>
         <mxCell id="fNs84FScNJCyW_8khOSI-62" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1050" y="339.58000000000004" as="sourcePoint" />
-            <mxPoint x="1080" y="290" as="targetPoint" />
+            <mxPoint x="1050" y="334.58000000000004" as="sourcePoint" />
+            <mxPoint x="1080" y="285" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fNs84FScNJCyW_8khOSI-66" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;CCC 模块&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -240,8 +240,8 @@
         </mxCell>
         <mxCell id="zKjVHoEQA4jgfMi0FOVl-1" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1060" y="299.9999999999999" as="sourcePoint" />
-            <mxPoint x="1090" y="349.5799999999999" as="targetPoint" />
+            <mxPoint x="1050" y="345.4199999999999" as="sourcePoint" />
+            <mxPoint x="1080" y="394.99999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
