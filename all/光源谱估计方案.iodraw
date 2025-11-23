@@ -11,7 +11,7 @@
           <mxGeometry x="140" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-11" value="预测场景光源谱及拆分14基光源占比" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="310" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="330" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwakMooaOA40INTIx32W-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="FwakMooaOA40INTIx32W-7" target="FwakMooaOA40INTIx32W-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
