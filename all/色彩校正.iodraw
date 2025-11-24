@@ -91,8 +91,8 @@
             <mxPoint x="720" y="359.99999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dZA5sLdSkm2xLxJswylG-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="dZA5sLdSkm2xLxJswylG-11" value="最小二乘求解cam2std矩阵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="320" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
