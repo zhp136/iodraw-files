@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="IxGxIJoeQapgSbvu2_j4">
-    <mxGraphModel dx="471" dy="260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="662" dy="366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,8 +81,8 @@
         </mxCell>
         <mxCell id="dZA5sLdSkm2xLxJswylG-7" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="282.95" as="sourcePoint" />
-            <mxPoint x="720" y="330" as="targetPoint" />
+            <mxPoint x="680" y="279.61" as="sourcePoint" />
+            <mxPoint x="720" y="326.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dZA5sLdSkm2xLxJswylG-8" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
@@ -90,6 +90,9 @@
             <mxPoint x="680" y="407.04999999999995" as="sourcePoint" />
             <mxPoint x="720" y="359.99999999999994" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dZA5sLdSkm2xLxJswylG-10" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 13px;&quot;&gt;标定raw虚拟重构&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="260" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
