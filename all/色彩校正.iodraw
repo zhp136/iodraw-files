@@ -56,7 +56,7 @@
           <mxGeometry x="520" y="240" width="130" height="86.66" as="geometry" />
         </mxCell>
         <mxCell id="dZA5sLdSkm2xLxJswylG-2" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center; background-color: rgb(251, 251, 251);&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;标准24色色卡&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="210" width="90" height="20" as="geometry" />
+          <mxGeometry x="540" y="210" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
