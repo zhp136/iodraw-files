@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="IxGxIJoeQapgSbvu2_j4">
-    <mxGraphModel dx="683" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="815" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,6 +60,12 @@
         </mxCell>
         <mxCell id="dZA5sLdSkm2xLxJswylG-3" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;标定raw虚拟重构&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="388.21" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dZA5sLdSkm2xLxJswylG-4" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="402.89" as="sourcePoint" />
+            <mxPoint x="500" y="402.89" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
