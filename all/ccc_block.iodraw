@@ -229,7 +229,7 @@
         <mxCell id="14Czq6LduI7o1dIO1ef2-96" value="&lt;span style=&quot;text-align: left;&quot;&gt;3x3 Blur Kernel&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1022.93" y="763" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="14Czq6LduI7o1dIO1ef2-98" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;rotation=45;" vertex="1" parent="1">
+        <mxCell id="14Czq6LduI7o1dIO1ef2-98" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=2;targetShapes=umlLifeline;rotation=45;" vertex="1" parent="1">
           <mxGeometry x="1030" y="773" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
