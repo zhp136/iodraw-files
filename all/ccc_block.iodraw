@@ -213,12 +213,12 @@
         </mxCell>
         <mxCell id="14Czq6LduI7o1dIO1ef2-92" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="719.5799999999999" as="sourcePoint" />
-            <mxPoint x="840" y="719.6800000000001" as="targetPoint" />
+            <mxPoint x="700" y="709.3899999999999" as="sourcePoint" />
+            <mxPoint x="840" y="709.49" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="14Czq6LduI7o1dIO1ef2-93" value="&lt;span style=&quot;text-align: left;&quot;&gt;Conv 5×5 padding=2 stride=1 , 1→1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="688" width="150" height="30" as="geometry" />
+          <mxGeometry x="690" y="677.81" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="14Czq6LduI7o1dIO1ef2-95" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;startSize=6;endSize=6;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
