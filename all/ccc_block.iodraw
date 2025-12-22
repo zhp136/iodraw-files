@@ -22,6 +22,9 @@
         <mxCell id="14Czq6LduI7o1dIO1ef2-7" value="&lt;span style=&quot;text-align: left;&quot;&gt;计算对数色度直方图&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="183.92000000000002" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="14Czq6LduI7o1dIO1ef2-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
