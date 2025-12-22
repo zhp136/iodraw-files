@@ -173,7 +173,10 @@
           <mxGeometry x="440" y="503" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="14Czq6LduI7o1dIO1ef2-72" value="&lt;span style=&quot;text-align: left;&quot;&gt;Downsampling: F.interpolate (Scale Factor 0.5)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="350" width="180" height="30" as="geometry" />
+          <mxGeometry x="440" y="585" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14Czq6LduI7o1dIO1ef2-73" value="&lt;span style=&quot;text-align: left;&quot;&gt;Downsampling: F.interpolate (Scale Factor 0.5)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
