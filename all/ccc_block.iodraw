@@ -37,7 +37,7 @@
         <mxCell id="14Czq6LduI7o1dIO1ef2-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="640" y="130" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="14Czq6LduI7o1dIO1ef2-18" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+        <mxCell id="14Czq6LduI7o1dIO1ef2-18" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=0;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="110" width="50" height="80" as="geometry" />
         </mxCell>
       </root>
