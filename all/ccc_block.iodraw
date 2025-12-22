@@ -242,13 +242,40 @@
           <mxGeometry x="1077.07" y="670" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="14Czq6LduI7o1dIO1ef2-104" value="&lt;span style=&quot;text-align: left;&quot;&gt;Upsampling: F.interpolate (Scale Factor 2)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="902.93" y="783" width="140" height="30" as="geometry" />
+          <mxGeometry x="930" y="583" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="14Czq6LduI7o1dIO1ef2-105" value="&lt;span style=&quot;text-align: left;&quot;&gt;3x3 Blur Kernel&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1042.9299999999998" y="783" width="140" height="30" as="geometry" />
+          <mxGeometry x="1069.9999999999998" y="583" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="14Czq6LduI7o1dIO1ef2-106" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=2;targetShapes=umlLifeline;rotation=45;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="793" width="10" height="10" as="geometry" />
+          <mxGeometry x="1077.07" y="593" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="14Czq6LduI7o1dIO1ef2-107" value="&lt;span style=&quot;text-align: left;&quot;&gt;Upsampling: F.interpolate (Scale Factor 2)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="503" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14Czq6LduI7o1dIO1ef2-108" value="&lt;span style=&quot;text-align: left;&quot;&gt;3x3 Blur Kernel&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1069.9999999999998" y="503" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14Czq6LduI7o1dIO1ef2-109" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=2;targetShapes=umlLifeline;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="1077.07" y="513" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="14Czq6LduI7o1dIO1ef2-110" value="&lt;span style=&quot;text-align: left;&quot;&gt;Upsampling: F.interpolate (Scale Factor 2)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="415" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14Czq6LduI7o1dIO1ef2-111" value="&lt;span style=&quot;text-align: left;&quot;&gt;3x3 Blur Kernel&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1069.9999999999998" y="415" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14Czq6LduI7o1dIO1ef2-112" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=2;targetShapes=umlLifeline;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="1077.07" y="425" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="14Czq6LduI7o1dIO1ef2-113" value="&lt;span style=&quot;text-align: left;&quot;&gt;Upsampling: F.interpolate (Scale Factor 2)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="932.93" y="813" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14Czq6LduI7o1dIO1ef2-114" value="&lt;span style=&quot;text-align: left;&quot;&gt;3x3 Blur Kernel&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1072.9299999999998" y="813" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14Czq6LduI7o1dIO1ef2-115" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=2;targetShapes=umlLifeline;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="823" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
