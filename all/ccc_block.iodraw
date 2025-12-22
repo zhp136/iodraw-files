@@ -106,9 +106,6 @@
         <mxCell id="14Czq6LduI7o1dIO1ef2-52" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;rotation=0;flipH=1;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="892.9300000000001" y="689" width="64.14" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="14Czq6LduI7o1dIO1ef2-53" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;rotation=0;flipH=1;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="898" y="759" width="53.28" height="34" as="geometry" />
-        </mxCell>
         <mxCell id="14Czq6LduI7o1dIO1ef2-54" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;startSize=6;endSize=6;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="924.83" y="350" as="sourcePoint" />
@@ -137,12 +134,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="924.8" y="689" as="sourcePoint" />
             <mxPoint x="924.8" y="658" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="14Czq6LduI7o1dIO1ef2-59" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;startSize=6;endSize=6;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="924.8" y="759" as="sourcePoint" />
-            <mxPoint x="924.8" y="728" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="14Czq6LduI7o1dIO1ef2-62" value="&lt;pre style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: 22px; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; text-wrap-mode: wrap; word-break: break-all; padding: 16px; color: rgb(15, 17, 21); text-align: start; margin: 0px !important;&quot;&gt;[64,64]&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -186,8 +177,8 @@
         </mxCell>
         <mxCell id="14Czq6LduI7o1dIO1ef2-77" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;startSize=6;endSize=6;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="797.93" y="780" as="sourcePoint" />
-            <mxPoint x="887.93" y="750" as="targetPoint" />
+            <mxPoint x="731" y="940" as="sourcePoint" />
+            <mxPoint x="821" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
