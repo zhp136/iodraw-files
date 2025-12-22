@@ -173,7 +173,7 @@
           <mxGeometry x="500" y="763" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="14Czq6LduI7o1dIO1ef2-76" value="&lt;span style=&quot;text-align: left;&quot;&gt;Upsampling: F.interpolate (Scale Factor 2)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="894" y="760" width="140" height="30" as="geometry" />
+          <mxGeometry x="889" y="763" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="14Czq6LduI7o1dIO1ef2-78" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -227,10 +227,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="14Czq6LduI7o1dIO1ef2-96" value="&lt;span style=&quot;text-align: left;&quot;&gt;3x3 Blur Kernel&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1034" y="760" width="140" height="30" as="geometry" />
+          <mxGeometry x="1029" y="763" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="14Czq6LduI7o1dIO1ef2-98" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=2;targetShapes=umlLifeline;rotation=45;" vertex="1" parent="1">
-          <mxGeometry x="1041.07" y="770" width="10" height="10" as="geometry" />
+          <mxGeometry x="1036.07" y="773" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="14Czq6LduI7o1dIO1ef2-101" value="&lt;span style=&quot;text-align: left;&quot;&gt;Upsampling: F.interpolate (Scale Factor 2)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="959" y="660" width="140" height="30" as="geometry" />
