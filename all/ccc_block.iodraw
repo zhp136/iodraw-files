@@ -164,7 +164,13 @@
           <mxGeometry x="639" y="769" width="92" height="24" as="geometry" />
         </mxCell>
         <mxCell id="14Czq6LduI7o1dIO1ef2-69" value="&lt;span style=&quot;text-align: left;&quot;&gt;Downsampling: F.interpolate (Scale Factor 0.5)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="390" width="60" height="30" as="geometry" />
+          <mxGeometry x="440" y="320" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14Czq6LduI7o1dIO1ef2-70" value="&lt;span style=&quot;text-align: left;&quot;&gt;Downsampling: F.interpolate (Scale Factor 0.5)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="414" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14Czq6LduI7o1dIO1ef2-71" value="&lt;span style=&quot;text-align: left;&quot;&gt;Downsampling: F.interpolate (Scale Factor 0.5)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="340" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
