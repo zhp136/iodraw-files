@@ -19,7 +19,7 @@
             <mxPoint x="960" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U5thkBczal-Yotb_y_oI-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U5thkBczal-Yotb_y_oI-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="1080" y="260" width="520" height="140" as="geometry" />
         </mxCell>
         <mxCell id="U5thkBczal-Yotb_y_oI-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
