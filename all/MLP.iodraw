@@ -28,8 +28,8 @@
             <mxPoint x="1560" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U5thkBczal-Yotb_y_oI-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="380" width="280" height="100" as="geometry" />
+        <mxCell id="U5thkBczal-Yotb_y_oI-7" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;Fully Connected Layer 1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="430" width="410" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
