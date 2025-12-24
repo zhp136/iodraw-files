@@ -19,6 +19,18 @@
             <mxPoint x="960" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="U5thkBczal-Yotb_y_oI-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="260" width="520" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="U5thkBczal-Yotb_y_oI-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="300" as="sourcePoint" />
+            <mxPoint x="1560" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U5thkBczal-Yotb_y_oI-7" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;Fully Connected Layer 1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="260" width="410" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="U5thkBczal-Yotb_y_oI-8" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;Linear: 5376&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="970" y="270" width="480" height="130" as="geometry" />
         </mxCell>
