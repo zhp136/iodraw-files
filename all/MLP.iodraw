@@ -20,7 +20,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U5thkBczal-Yotb_y_oI-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="370" width="340" height="120" as="geometry" />
+          <mxGeometry x="1080" y="260" width="520" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="U5thkBczal-Yotb_y_oI-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="420" as="sourcePoint" />
+            <mxPoint x="1070" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
