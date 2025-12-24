@@ -31,8 +31,8 @@
         <mxCell id="U5thkBczal-Yotb_y_oI-7" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;Fully Connected Layer 1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1135" y="260" width="410" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="U5thkBczal-Yotb_y_oI-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="380" width="60" height="30" as="geometry" />
+        <mxCell id="U5thkBczal-Yotb_y_oI-8" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;Linear: 5376&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="380" width="480" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
