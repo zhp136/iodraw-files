@@ -16,7 +16,7 @@
         <mxCell id="U5thkBczal-Yotb_y_oI-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#647687;strokeColor=#314354;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="960" y="180" as="sourcePoint" />
-            <mxPoint x="960" y="198" as="targetPoint" />
+            <mxPoint x="960" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U5thkBczal-Yotb_y_oI-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -29,7 +29,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U5thkBczal-Yotb_y_oI-7" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;Fully Connected Layer 1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="430" width="410" height="50" as="geometry" />
+          <mxGeometry x="1135" y="260" width="410" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
