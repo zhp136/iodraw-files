@@ -24,8 +24,8 @@
         </mxCell>
         <mxCell id="U5thkBczal-Yotb_y_oI-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1120" y="300" as="sourcePoint" />
-            <mxPoint x="1560" y="320" as="targetPoint" />
+            <mxPoint x="1120" y="310" as="sourcePoint" />
+            <mxPoint x="1560" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U5thkBczal-Yotb_y_oI-7" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;Fully Connected Layer 1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
