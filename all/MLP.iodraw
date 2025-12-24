@@ -65,7 +65,7 @@
           <mxGeometry x="1120" y="720" width="450" height="70" as="geometry" />
         </mxCell>
         <mxCell id="U5thkBczal-Yotb_y_oI-24" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;Spectral Estimation [B, 341]&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1275" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="1167.5" y="870" width="342.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
