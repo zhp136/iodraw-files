@@ -67,18 +67,18 @@
             <mxPoint x="1720" y="284" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ygkh88XRor5-augOJz54-102" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.125;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Ygkh88XRor5-augOJz54-103">
+        <mxCell id="Ygkh88XRor5-augOJz54-102" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1479.37" y="230" as="sourcePoint" />
-            <mxPoint x="1479" y="170" as="targetPoint" />
+            <mxPoint x="1480" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ygkh88XRor5-augOJz54-103" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&amp;nbsp;Illumination Initialization Module&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
           <mxGeometry x="1450" y="90" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ygkh88XRor5-augOJz54-104" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.771;exitY=1.024;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="Ygkh88XRor5-augOJz54-103" target="Ygkh88XRor5-augOJz54-96">
+        <mxCell id="Ygkh88XRor5-augOJz54-104" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ygkh88XRor5-augOJz54-96">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1489.37" y="240" as="sourcePoint" />
+            <mxPoint x="1635" y="180" as="sourcePoint" />
             <mxPoint x="1489" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
